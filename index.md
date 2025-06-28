@@ -8,6 +8,7 @@ title: My Cybersecurity Portfolio
 A simple portfolio to showcase my LinkedIn articles and projects in cybersecurity and infrastructure.
 
 ## Featured Articles
+
 <ul>
 {% for page in site.pages %}
   {% if page.path contains 'articles/' %}
