@@ -9,4 +9,5 @@ A simple portfolio to showcase my LinkedIn articles and projects in cybersecurit
 
 ## Featured Articles
 
-- [From Hybrid SCCM to Full Intune Management: The Ultimate Guide to Seamless Transition](/sccm-to-intune/)
+[SCCM to Intune Migration Guide](/articles/sccm-to-intune.html)
+
