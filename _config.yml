@@ -1,0 +1,7 @@
+title: My Cybersecurity Portfolio
+description: A simple portfolio to showcase my LinkedIn articles and projects in cybersecurity and infrastructure.
+theme: jekyll-theme-cayman
+
+# Optional: these help with SEO and site structure
+url: "https://abhicybersec15.github.io/abhicybersec/"  # Replace with your GitHub Pages URL
+baseurl: "https://abhicybersec15.github.io/"  # Leave empty for user/organization site
