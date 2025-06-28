@@ -1,20 +1,12 @@
 ---
 layout: default
-title: Welcome to My Cybersecurity Portfolio
+title: My Cybersecurity Portfolio
 ---
 
-# Hello! 👋
+# Welcome to My Cybersecurity Portfolio
 
-Personal portfolio and blog – showcasing my projects, technical articles, and learning journey in cybersecurity and infrastructure engineering.
+A simple portfolio to showcase my LinkedIn articles and projects in cybersecurity and infrastructure.
 
-## Featured LinkedIn Articles
+## Featured Articles
 
-
----
-
-## Connect with Me
-
-- 
----
-
-Thanks for visiting! Feel free to explore and connect.
+- [From Hybrid SCCM to Full Intune Management: The Ultimate Guide to Seamless Transition](/sccm-to-intune/)
