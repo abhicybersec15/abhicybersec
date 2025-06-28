@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 title: From Hybrid SCCM to Full Intune Management
 permalink: /sccm-to-intune/
 ---
