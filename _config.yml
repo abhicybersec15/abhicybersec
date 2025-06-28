@@ -6,11 +6,18 @@ theme: jekyll-theme-midnight
 url: "https://abhicybersec15.github.io/abhicybersec/"  # Replace with your GitHub Pages URL
 baseurl: ""  # Leave empty for user/organization site
 
-collections:
-  articles:
-    output: true
+# Make URLs pretty, without date in them
+permalink: /:title/
 
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+
+# Optional plugins or markdown processor
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
+markdown: kramdown
