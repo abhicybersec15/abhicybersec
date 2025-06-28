@@ -5,3 +5,12 @@ theme: jekyll-theme-midnight
 # Optional: these help with SEO and site structure
 url: "https://abhicybersec15.github.io/abhicybersec/"  # Replace with your GitHub Pages URL
 baseurl: ""  # Leave empty for user/organization site
+
+collections:
+  articles:
+    output: true
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
