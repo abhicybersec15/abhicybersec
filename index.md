@@ -12,7 +12,6 @@ title: Home
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
 ---
 
 Thanks for visiting — feel free to explore and reach out if you have questions!
