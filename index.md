@@ -8,6 +8,10 @@ title: My Cybersecurity Portfolio
 A simple portfolio to showcase my LinkedIn articles and projects in cybersecurity and infrastructure.
 
 ## Featured Articles
-
-[SCCM to Intune Migration Guide](/articles/sccm-to-intune.html)
-
+<ul>
+{% for page in site.pages %}
+  {% if page.path contains 'articles/' %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
