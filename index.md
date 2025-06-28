@@ -5,7 +5,7 @@ title: Welcome to My Cybersecurity Portfolio
 
 # Hello! 👋
 
-Welcome to my personal portfolio and blog site where I share my projects and articles on **cybersecurity** and **infrastructure**.
+Personal portfolio and blog – showcasing my projects, technical articles, and learning journey in cybersecurity and infrastructure engineering.
 
 ## Featured LinkedIn Articles
 
