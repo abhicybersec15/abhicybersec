@@ -4,7 +4,7 @@ theme: jekyll-theme-midnight
 
 # Optional: these help with SEO and site structure
 url: "https://abhicybersec15.github.io/abhicybersec/"  # Replace with your GitHub Pages URL
-baseurl: ""  # Leave empty for user/organization site
+baseurl: "/abhicybersec"  # Leave empty for user/organization site
 
 # Make URLs pretty, without date in them
 permalink: /:title/
